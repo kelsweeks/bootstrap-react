@@ -1,0 +1,204 @@
+{
+    "movies":[
+      {
+        "id": 1,
+        "name": "Akira",
+        "director": "Katsuhiro Otomo",
+        "year": 1988,
+        "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his gang of biker friends and a group of psychics.",
+        "starring": "Mitsuo Iwata, Nozomu Sasaki, Mami Koyama",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/AKIRA_%281988_poster%29.jpg",
+        "genre": "Action"
+      },
+      {
+        "id": 2,
+        "name": "Spirited Away",
+        "director": "Hayao Miyazaki",
+        "year": 2001,
+        "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "starring": "Miyu Irino",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
+        "genre": "Adventure"
+      },
+      {
+        "id": 3,
+        "name": "Grave of the Fireflies",
+        "director": "Isao Takahata",
+        "year": "1988",
+        "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "starring": "Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara ",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg",
+        "genre": "Drama"
+      },
+      {
+        "id": 4,
+        "name": "Ghost in the Shell",
+        "director": "Mamoru Oshii",
+        "year": "1995",
+        "description": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+        "starring": "Atsuko Tanaka, Iemasa Kayumi, Akio Otsuka",
+        "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWLy-liRsVALd8gntl28RKPoSDnXGwzwMBLw&usqp=CAU",
+        "genre": "Action"
+      },
+      {
+        "id": 5,
+        "name": "Paprika",
+        "director": "Satoshi Kon",
+        "year": "2006",
+        "description": "When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist, Paprika, can stop it.",
+        "starring": "Megumi Hayashibara, Toru Emori, Katsunosuke Hori",
+        "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWLy-liRsVALd8gntl28RKPoSDnXGwzwMBLw&usqp=CAU",
+        "genre": "Drama"
+      },
+      {
+        "id": 6,
+        "name": "The Wind Rises",
+        "director": "Hayao Miyazaki",
+        "year": "2013",
+        "description": "A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.",
+        "starring": "Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kaze_Tachinu_poster.jpg",
+        "genre": "Drama"
+      },
+      {
+        "id": 7,
+        "name": "Perfect Blue",
+        "director": "Satoshi Kon",
+        "year": "1997",
+        "description": "A pop singer gives up her career to become an actress, but she slowly goes insane when she starts being stalked by an obsessed fan and what seems to be a ghost of her past.",
+        "starring": "Junko Iwao, Rica Matsumoto, Shinpachi Tsuji",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Perfectblueposter.png",
+        "genre": "Drama"
+      },
+      {
+        "id":8,
+        "name": "Patlabor 2",
+        "director": "Mamoru Oshii",
+        "year": "1993",
+        "description": "When a terrorist attack is blamed on the Air Force, Special Vehicle Unit 2 gets caught in the middle of a growing political conflict.",
+        "starring": "Mina Tominago, Briony Glassco",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Patlabor_2_poster.jpg",
+        "genre": "Action"
+      },
+      {
+        "id":9,
+        "name": "My Neighbor Totoro",
+        "director": "Hayao Miyazaki",
+        "year": "1988",
+        "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+        "starring": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg",
+        "genre": "Comedy"
+      },
+      {
+        "id":10,
+        "name": "Neo-Tokyo",
+        "director": "Various",
+        "year": 1987,
+        "description": "A trilogy of separate stories. In Labyrinth labyrinthos, a girl and her cat enter a strange world. In Running Man, a racer takes on the ultimate opponent. In Construction Cancellation Order, a man must shut down worker robots.",
+        "starring": "Hideko Yoshida, Masane Tsukayama, Yu Mizushima",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Neo_Tokyo_poster.png",
+        "genre": "Fantasy"
+      },
+      {
+        "id":11,
+        "name": "Royal Space Force: The Wings of Honnêamise",
+        "director": "Hiroyuki Yamaga",
+        "year": "1987",
+        "description": "In an alternative Earth, a young astronaut participates in a controversial fledgling space program.",
+        "starring": "Leo Morimoto, Mitsuki Yayoi",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Royal_Space_Force_Poster.jpg",
+        "genre": "Sci-Fi"
+      },
+      {
+        "id":12,
+        "name": "Princess Mononoke",
+        "director": "Hayao Miyazaki",
+        "year": "1997",
+        "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "starring": "Yoji Matsuda, Yuriko Ishida, Yuko Tanaka",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/Princess_Mononoke_Japanese_poster.png",
+        "genre": "Adventure"
+      },
+      {
+        "id":13,
+        "name": "Pom Poko",
+        "director": "Isao Takahata",
+        "year": "1994",
+        "description": "A community of magical shape-shifting raccoon dogs struggle to prevent their forest home from being destroyed by urban development.",
+        "starring": "Shincho Kokontei, Makoto Nonomura, Yuriko Ishida",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Pompokoposter.jpg",
+        "genre": "Comedy"
+      },
+      {
+        "id":14,
+        "name": "Barefoot Gen",
+        "director": "Mori Masaki",
+        "year": "1983",
+        "description": "A powerful statement against war, Barefoot Gen is a disturbing story about the effect of the atomic bomb on a boy's life and the lives of the Japanese people.",
+        "starring": "Issei Miyazaki, Yoshie Shimamura",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Barefoot_Gen_volume_one.jpg",
+        "genre": "Drama"
+      },
+      {
+        "id":15,
+        "name": "Metropolis",
+        "director": "Rintaro",
+        "year": "2001",
+        "description": "Kenichi and his uncle Shunsaku Ban must find the mystery behind robot girl Tima.",
+        "starring": "Toshio Furukawa, Yuka Imoto",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Metropolisanime_poster.jpg",
+        "genre": "Adventure"
+      },
+      {
+        "id":16,
+        "name": "Super Dimension Fortress Macross:Do You Remember Love?",
+        "director": "Shoji Kawamori, Noboru Ishiguro",
+        "year": "1984",
+        "description": "Earth braces for an invasion of giant male bionoids and their enemy, giant female bionoids.",
+        "starring": "Arihiro Hase, Mari Iijima",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/4/4e/Macross_do_you_remember_love_dvd.jpg",
+        "genre": "Adventure, Action"
+      },
+      {
+        "id":17,
+        "name": "Millennium Actress",
+        "director": "Satoshi Kon",
+        "year": "2001",
+        "description": "A TV interviewer and his cameraman meet a former actress and travel through her memories and career.",
+        "starring": "Miyoko Shoji, Shozo Izuka, Mami Koyama",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/Sennenyoyu.jpg",
+        "genre": "Fantasy"
+      },
+      {
+        "id":18,
+        "name": "Belladonna of Sadness ",
+        "director": "Eiichi Yamamoto",
+        "year": "1973",
+        "description": "After being raped by an evil feudal lord and subsequently getting banished from her village, a peasant girl makes a pact with the Devil to gain magical powers and take her revenge.",
+        "starring": "Aiko Nagayama, Chinatsu Nakayama",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Metropolisanime_poster.jpg",
+        "genre": "Drama, Fantasy"
+      },
+      {
+        "id":19,
+        "name": "Redline ",
+        "director": "Takeshi Koike",
+        "year": "2009",
+        "description": "A story about the most popular racing event in the galaxy, the Redline, and the various racers who compete in it.",
+        "starring": "Takuya Kimura, Yu Aoi, Tadanobu Asano",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/6/6f/Redline_%282009_film%29_poster.jpg",
+        "genre": "Action, Sci-Fi"
+      },
+      {
+        "id":20,
+        "name": "Mind Game",
+        "director": "Masaaki Yuasa, Koji Morimoto",
+        "year": "2004",
+        "description": "After a deadly encounter with two yakuza, a loser with a crush on his childhood girlfriend goes to heaven and back, embarking on a psychedelic self-discovery experience with her and his friends.",
+        "starring": "Toshio Furukawa, Yuka Imoto",
+        "pictureUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Mindgame-2004-poster.jpg",
+        "genre": "Adventure, Comedy"
+      }
+    ]
+  }
